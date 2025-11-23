@@ -18,6 +18,7 @@ Backend разработчик, которая любит разбираться
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-316192?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-316192?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -28,6 +29,8 @@ Backend разработчик, которая любит разбираться
 
 ### Frontend (для полноценных приложений)
 - **TypeScript** - типизированный JavaScript для клиентской части
+- **React** - создание интерактивных пользовательских интерфейсов с компонентным подходом
+- **Tailwind CSS** - утилитарный CSS-фреймворк для быстрой стилизации
 
 ## 🚀 Текущий проект
 
