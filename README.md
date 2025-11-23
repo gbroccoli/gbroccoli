@@ -66,9 +66,3 @@ Backend разработчик, которая любит разбираться
 [![Telegram](https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kak_to_sama_poluchilas)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gbroccoli&color=blueviolet&style=flat-square&label=Просмотров+профиля" alt="Profile views" />
-</div>
